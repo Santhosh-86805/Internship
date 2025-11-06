@@ -1,0 +1,2 @@
+My name is Santhsoh. I am from Uppal, Hyderabad,=. I have completed my graduation in B.Tech from Vignana Bharathi Institute of Technology int the field of computer science and Engineering.
+My skills are programming with c, java python. My projects are Translator and transliterator using NLP and Alzhiemer's classification using GAN-MPA.
